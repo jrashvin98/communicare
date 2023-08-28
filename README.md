@@ -8,7 +8,7 @@
 </p>
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2FCRatZiziw/0.jpg)](https://www.youtube.com/watch?v=2FCRatZiziw)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/2FCRatZiziw/0.jpg)](https://www.youtube.com/watch?v=2FCRatZiziw) (Click to watch the user interface of Communicare)
 
 CommuniCare which has two main features: reporting problems, and also booking facilities. From this application, residents can book the services. Residents can also use this service app to report issues regarding maintenance problems facing their homes and will be immediately assisted by the staff who do not have to find third-party service from outside of their apartment.
 
