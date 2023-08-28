@@ -7,8 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2FCRatZiziw?si=aIBZMMqTfC-HUo1z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> </iframe>
 
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/2FCRatZiziw?si=aIBZMMqTfC-HUo1z/0.jpg)](http://www.youtube.com/watch?v=2FCRatZiziw?si=aIBZMMqTfC-HUo1z "Video Title")
 
 CommuniCare which has two main features: reporting problems, and also booking facilities. From this application, residents can book the services. Residents can also use this service app to report issues regarding maintenance problems facing their homes and will be immediately assisted by the staff who do not have to find third-party service from outside of their apartment.
 
